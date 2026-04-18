@@ -20,7 +20,7 @@ const spaceMono = Space_Mono({
 export const metadata: Metadata = {
   title: 'Live Weather Dashboard',
   description: 'A neo-brutalist weather dashboard built with React Hooks',
- 
+ generator: 'v0.app',
   icons: {
     icon: [
       {
