@@ -6,7 +6,7 @@
 
 A highly interactive, real-time weather application built with React and Tailwind CSS. Moving away from standard UI patterns, this project features a strict **Neo-Brutalist** design language with heavy typography, solid borders, and dynamic color-shifting backgrounds based on real-time weather data.
 
-**🔗 [View Live Demo on Netlify](https://live-weather-checking.netlify.app/)**
+**🔗 [View Live Demo on Netlify](https://69e3675e24a7839e94854538--live-weather-checking.netlify.app/)**
 
 ---
 
