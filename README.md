@@ -53,4 +53,27 @@ If you'd like to run this project locally on your machine, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/live-weather-dashboard.git](https://github.com/YOUR_USERNAME/live-weather-dashboard.git)
+   git clone [https://github.com/ABDULLAH-ASIF11/live-weather-dashboard.git](https://github.com/ABDULLAH-ASIF11/live-weather-dashboard.git)
+2. **Navigate to the project directory:**   
+   ```bash
+   cd live-weather-dashboard
+3. **Install dependencies:**   
+   ```bash
+   npm install
+4. **Set up Environment Variables:** 
+Create a .env file in the root of your project.
+Add your OpenWeather API key:
+VITE_OPENWEATHER_API_KEY=your_api_key_here
+(Note: Update the base44Client.js file to reference this .env variable instead of the hardcoded key).
+5. **Start the development server:** 
+   ```bash
+   npm run dev
+
+
+---
+## 👨‍💻 THE CREATOR
+
+| ABDULLAH ASIF |
+| :---: |
+| React / Front-End Developer |
+| [![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Paste Your LinkedIn Link Here]) [![GitHub](https://img.shields.io/badge/GITHUB-%23100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ABDULLAH-ASIF11) |
