@@ -76,4 +76,4 @@ VITE_OPENWEATHER_API_KEY=your_api_key_here
 | ABDULLAH ASIF |
 | :---: |
 | React / Front-End Developer |
-| [![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Paste Your LinkedIn Link Here]) [![GitHub](https://img.shields.io/badge/GITHUB-%23100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ABDULLAH-ASIF11) |
+| [![LinkedIn]([https://img.shields.io/badge/LINKEDIN-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/abdullah-asif-bhatti/))]([Paste Your LinkedIn Link Here]) [![GitHub](https://img.shields.io/badge/GITHUB-%23100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ABDULLAH-ASIF11) |
